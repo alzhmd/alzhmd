@@ -1,3 +1,13 @@
+<!-- film:the-story-starts-here -->
+<a href="https://alzhmd.github.io/"><img src="assets/the-story-starts-here.webp" width="100%" alt="داستان از اینجا شروع شد — The story starts here: a slow-motion film made entirely in code"></a>
+
+<p align="center">
+  <a href="https://alzhmd.github.io/"><b>▶ تماشا با صدا · Watch with sound</b></a>
+  &nbsp;·&nbsp; <a href="https://github.com/alzhmd/alzhmd/releases/tag/v1.0">دانلود · Download</a>
+  &nbsp;·&nbsp; <a href="https://github.com/alzhmd/girih">ساخته‌شده با کد · Made in code</a>
+</p>
+<!-- /film -->
+
 <div dir="rtl">
 
 ### سلام ایرانی بدبخت 👋
